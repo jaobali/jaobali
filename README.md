@@ -11,7 +11,7 @@
 
 - 📫 How to reach me:
   - Gmail: [silva.balieiro.joao@gmail.com](mailto:silva.balieiro.joao@gmail.com) 📧
-  - WhatsApp: [+55(44)999909762]([tel:+5544999909762](https://w.app/v6CWyU)) 📱
+  - WhatsApp: [+55(44)999909762](https://w.app/v6CWyU) 📱
 
 
 <h3 align="left">Connect with me:</h3>
