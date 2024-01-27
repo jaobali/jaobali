@@ -9,7 +9,10 @@
 
 - 💬 Ask me about **Python, SQL, Power BI, Macro Recorder...**
 
-- 📫 How to reach me **silva.balieiro.joao@gmail.com**
+- 📫 How to reach me:
+  - Gmail: [silva.balieiro.joao@gmail.com](mailto:silva.balieiro.joao@gmail.com) 📧
+  - WhatsApp: [+55(44)999909762](tel:+5544999909762) 📱
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
