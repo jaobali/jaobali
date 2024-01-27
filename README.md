@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Balieiro</h1>
 <h3 align="center">A passionate data analyst from Brazil</h3>
 
-- 🔭 I’m currently working as [junior data analyst at](https://www.unicesumar.edu.br/)
+- 🔭 I’m currently working as junior data analyst at [https://www.unicesumar.edu.br/](https://www.unicesumar.edu.br/)
 
 - 🌱 I’m currently learning **Machine Learning in Python and altomatization tools**
 
